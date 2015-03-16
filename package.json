@@ -17,8 +17,8 @@
   "scripts": {
     "lint": "standardberry index.js",
     "test": "node test/test.js",
-    "test-cov": "istanbul cover node test/test.js",
-    "test-ci": "npm run lint && istanbul cover node test/test.js"
+    "test-cov": "istanbul cover test/test.js",
+    "test-ci": "npm run lint && istanbul cover test/test.js"
   },
   "keywords": [
     "influxdb",
