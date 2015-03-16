@@ -48,8 +48,8 @@ client.send('my.other.database', [
 ])
 ```
 
-[npm-image]: https://img.shields.io/npm/v/collectors-influxdb.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/collectors-influxdb
+[npm-image]: https://img.shields.io/npm/v/collector-influxdb.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/collector-influxdb
 [github-tag]: http://img.shields.io/github/tag/collectors/influxdb.svg?style=flat-square
 [github-url]: https://github.com/collectors/influxdb/tags
 [travis-image]: https://img.shields.io/travis/collectors/influxdb.svg?style=flat-square
@@ -58,9 +58,9 @@ client.send('my.other.database', [
 [coveralls-url]: https://coveralls.io/r/collectors/influxdb
 [david-image]: http://img.shields.io/david/collectors/influxdb.svg?style=flat-square
 [david-url]: https://david-dm.org/collectors/influxdb
-[license-image]: http://img.shields.io/npm/l/collectors-influxdb.svg?style=flat-square
+[license-image]: http://img.shields.io/npm/l/collector-influxdb.svg?style=flat-square
 [license-url]: LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/collectors-influxdb.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/collectors-influxdb
+[downloads-image]: http://img.shields.io/npm/dm/collector-influxdb.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/collector-influxdb
 [gittip-image]: https://img.shields.io/gratipay/jonathanong.svg?style=flat-square
 [gittip-url]: https://gratipay.com/jonathanong/
