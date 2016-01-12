@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "exit-then": "^1.3.0",
-    "istanbul": "0",
+    "istanbul": "0.4.2",
     "standardberry": "*"
   },
   "scripts": {
